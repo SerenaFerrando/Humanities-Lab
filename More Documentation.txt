@@ -1,0 +1,9 @@
+You can just add another read + buffer to Max for new files like the one that's there. For a button, instead of sel 9, you'd just give it another button number. For the pots, a different number after ctlin.
+Here's how the buttons and pots are mapped (actually, I don't remember the pots, but here's how I think they go):
+
+21-28
+41-48
+9, 10, 11, 12, 25, 26, 27, 28
+
+
+(Mark Wardecker, Jan 2018)
